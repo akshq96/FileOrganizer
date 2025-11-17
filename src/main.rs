@@ -61,9 +61,8 @@ fn organize_files(folder_path: &str)-> io::Result<()> {
     Ok(())
 }
 // Usage: cargo run [folder_path]
-//! Example: cargo run ./Downloads
-//! 
-//! The program will print the files that are moved to the console.
-//! 
-//! The program will exit with code 1 if the directory does not exist or is not a directory.
-//! 
+// Example: cargo run ./Downloads
+// 
+// The program will print the files that are moved to the console.
+// 
+// The program will exit with code 1 if the directory does not exist or is not a directory. 
