@@ -1,12 +1,4 @@
-//! A simple program to organize files in a folder into different categories.
-//! 
-//! The program will organize files into the following categories:
-//! - Images
-//! - Videos
-//! - Music
-//! - Documents
-//! - Archives
-//! - Applications
+
 
 use std::{fs,io,path::Path, env};
 
